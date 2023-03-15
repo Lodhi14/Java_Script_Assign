@@ -1,5 +1,5 @@
 function Table() {
-    //Build an array containing Customer records.
+
     var person = new Array();
     person.push(["Name", "Age", "Dob", "Email", "Company"]);
     person.push(["Kunal", "17", "17-07-2004","kunal@gmail.com", "acc"]);
